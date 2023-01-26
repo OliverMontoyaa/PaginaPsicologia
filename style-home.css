@@ -1,0 +1,72 @@
+
+body{
+    
+}
+/* # Referencia a un ID*/
+#title{
+    background: #FFFFFF;
+    display: inline-block;
+    text-align:center;
+    vertical-align: 90%;
+}
+.imgLogoPsico{
+    width:7%;
+}
+.imgAwareness{
+    width: 7%;
+}
+.imgPesca{
+    width: 80%;
+    height: 500px;
+    
+}
+.imgAtencionPsi{
+    width: 50%;
+}
+/* Etiquetas HTML */
+h1{    
+    background: #CCCCCC;
+}
+h3{
+    
+}
+#sobreMi{
+    
+    height: 150px;
+    border: 10px solid #000000;
+    padding: 20px;
+    margin: 40px;    
+}
+p{
+    text-align: justify;       
+             
+}
+strong{
+    color:red 
+}
+/* Referencia  a selectores "ID" */
+#vision{
+    font-size: 20px;
+}
+.principal{
+    background: #CCCCCC;
+    padding: 20px;
+}
+.diferenciales{
+    background: #FFFFFF;
+    padding: 30px;
+}
+/* Referencia a clases "class" */
+.items{
+    font-style: italic;
+    
+}
+ul{
+    display:inline-block;
+    vertical-align: top;
+    width:20%;
+    margin-right: 10%;
+}
+.centralizado{
+    text-align: center;
+}
